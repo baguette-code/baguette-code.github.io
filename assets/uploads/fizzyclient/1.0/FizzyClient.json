@@ -242,6 +242,6 @@
     }
   ],
   "minimumLauncherVersion": 14,
-  "mainClass": "net.minecraft.client.main.Main",
+  "mainClass": "net.minecraft.launchwrapper.Launch",
   "assets": "1.8"
 }
