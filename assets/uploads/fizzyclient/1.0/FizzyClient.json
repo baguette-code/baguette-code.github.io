@@ -8,9 +8,15 @@
   "jar": "1.8.9",
   "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type} --tweakClass com.fizzyclient.launch.FizzyClientTweaker",
   "libraries": [
-	{
-	  "name": "com.mojang:netty:1.6"
-	},
+    {
+      "name": "com.mojang:netty:1.6"
+    },
+    {
+      "name":"fizzyclient:launchwrapper:1.0"
+    },
+    {
+      "name":"fizzyclient:FizzyClient"
+    },
     {
       "name": "java3d:vecmath:1.5.2"
     },
