@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html><head><meta name="GCD" content="YTk3ODQ3ZWZhN2I4NzZmMzBkNTEwYjJlc1da8c18f611b29ead88debcd5e146ba"/>
+<html><head><meta name="GCD" content="YTk3ODQ3ZWZhN2I4NzZmMzBkNTEwYjJlbf6cb66a7d4d180b4fc368ec7c647caf"/>
   <meta charset="utf-8">
   <title>Model Viewer</title>
   <meta name="generator" content="Google Web Designer 14.0.4.1108">
@@ -102,7 +102,6 @@ u.prototype.o=function(){this.j=!1;this.i=!0;this.g.removeEventListener("load",t
 f.Object.defineProperties(u.prototype,{nativeElement:{configurable:!0,enumerable:!0,get:function(){return this.g}},src:{configurable:!0,enumerable:!0,get:function(){return this.g.getAttribute("src")},set:function(a){this.g.setAttribute("src",a)}},srcdoc:{configurable:!0,enumerable:!0,get:function(){return this.g.getAttribute("srcdoc")},set:function(a){this.g.setAttribute("srcdoc",a)}},scrolling:{configurable:!0,enumerable:!0,get:function(){return this.g.getAttribute("scrolling")},set:function(a){this.g.setAttribute("scrolling",
 a)}},allowFullscreen:{configurable:!0,enumerable:!0,get:function(){return this.g.hasAttribute("allowFullscreen")},set:function(a){a?this.g.setAttribute("allowFullscreen",""):this.g.removeAttribute("allowFullscreen")}},name:{configurable:!0,enumerable:!0,get:function(){return this.g.getAttribute("name")},set:function(a){this.g.setAttribute("name",a)}}});f.Object.defineProperties(u,{observedAttributes:{configurable:!0,enumerable:!0,get:function(){return t}}});customElements.define("gwd-iframe",u);}).call(this);
 </script>
-  <script data-source="https://ajax.googleapis.com/ajax/libs/model-viewer/1.6.0/model-viewer.min.js" data-exports-type="gwd-3d-model-viewer" type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/1.6.0/model-viewer.min.js"></script>
   <script data-source="gwd3dmodelviewer_min.js" data-version="2" data-exports-type="gwd-3d-model-viewer">(function(){/*
 
  Copyright The Closure Library Authors.
@@ -140,11 +139,12 @@ b+="}";d=c.getAttribute("background-color");e=c.getAttribute("font-color");h=c.g
 this.F=e);b=0;c=g(c.children);for(d=c.next();!d.done;d=c.next())if(d=d.value,e=d.getAttribute("data-position")){h=d.getAttribute("data-normal")||"";var l=d.getAttribute("hotspot-name")||String(b),k=d.getAttribute("hotspot-title")||"",y=d.getAttribute("hotspot-description")||"";d=pa({K:a,hotspotName:l,position:e,normal:h,title:k,description:y,I:d.hasAttribute("info-card-hidden")});a.appendChild(d);b++}}}};function la(a){return a.classList&&a.classList.contains("hotspot")?!0:!1}
 f.getSceneGraphModel=function(){return U(this).model};f.getCameraDetails=function(){var a=U(this).getCameraOrbit(),c=a.theta,b=a.phi;a=a.radius;var d=U(this).getCameraTarget();return{yaw:c*M,pitch:b*M,zoom:a,x:d.x,y:d.y,z:d.z}};da.Object.defineProperties(N,{observedAttributes:{configurable:!0,enumerable:!0,get:function(){return ka}}});customElements.define("gwd-3d-model-viewer",N);}).call(this);
 </script>
+  <script data-source="https://ajax.googleapis.com/ajax/libs/model-viewer/1.6.0/model-viewer.min.js" data-exports-type="gwd-3d-model-viewer" type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/1.6.0/model-viewer.min.js"></script>
 </head>
 
 <body class="htmlNoPages">
   <gwd-iframe id="Background" source="" class="gwd-iframe-u87y" data-gwd-name="Background" scrolling="no"></gwd-iframe>
-  <gwd-3d-model-viewer id="ModelViewer" src="Model.glb" gesture-cue-duration="29" class="gwd-3d-model-viewer-1v6a" data-gwd-name="ModelViewer" field-of-view="42deg" environment-image="HDR_029_Sky_Cloudy_Env.hdr.js" shadow-intensity="1" shadow-softness="0.6"></gwd-3d-model-viewer>
+  <gwd-3d-model-viewer id="ModelViewer" src="Model.glb" gesture-cue-duration="29" class="gwd-3d-model-viewer-1v6a" data-gwd-name="ModelViewer" field-of-view="120deg" environment-image="" shadow-intensity="1" shadow-softness="0.6" skybox-image="HDR_029_Sky_Cloudy_Env.hdr.js" exposure="1.36" camera-orbit="68deg 82.63deg 7.51m"></gwd-3d-model-viewer>
 
 
 </body></html>
