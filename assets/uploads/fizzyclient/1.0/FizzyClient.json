@@ -246,5 +246,5 @@
     }
   ],
   "minimumLauncherVersion": 14,
-  "mainClass": "net.minecraft.launchwrapper.Launch"
+  "mainClass": "net.minecraft.main.Main"
 }
