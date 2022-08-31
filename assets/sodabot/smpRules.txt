@@ -2,14 +2,13 @@
 
 These rules are here to keep the fun in FizzySMP. __These rules apply to anyone who plays on FizzySMP.__
 
-**1. Griefing or stealing is not allowed on player bases or builds without permission.**  War is allowed but destruction should not be made to the spawn area or it's bases / structures. Stuff within spawn can be griefed if permission has been given by baguette man.  Breaking this rule will result in a temporary blacklist, depending on the severity. 
+**1. Do not use a client or it's features to your own advantage.** You are allowed to use any client / mod / resource as long as it contains no hacks or features that could pose an unfair advantage during normal gameplay. An example of an unfair advantage is xray and kill-aura. Hacks that are exempt from this rule include fullbright. Breaking this rule will result in a temporary blacklist.
 
-**2. Do not use a client or it's features to your own advantage.** You are allowed to use any client / mod / resource as long as it contains no hacks or features that could pose an unfair advantage during normal gameplay. An example of an unfair advantage is xray and kill-aura. Hacks that are exempt from this rule include fullbright. Breaking this rule will result in a temporary blacklist.
+**2. Don't conflict (interfere) with the server / it's software.** Breaking this rule could result in a long blacklist if the rule-breaking is provable.
 
-**3. Don't conflict (interfere) with the server / it's software.** Breaking this rule could result in a long blacklist if the rule-breaking is provable.
-
-**4. Please listen to any admins.** Action could be taken if not done so. 
+**3. Please listen to any admins.** Action could be taken if not done so. 
 
 ———————
 
+Note: for a guide on how to protect your builds [click here.](https://discord.com/channels/696812059878359092/831913825569734676/1014180695154896996)
 **Please react below with your vote once you are done reading.** If you have any questions, run ``/question`` with topic ``FizzySMP``.
