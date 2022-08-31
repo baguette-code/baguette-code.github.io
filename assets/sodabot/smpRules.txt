@@ -10,5 +10,5 @@ These rules are here to keep the fun in FizzySMP. __These rules apply to anyone 
 
 ———————
 
-Note: for a guide on how to protect your builds [click here.](https://discord.com/channels/696812059878359092/831913825569734676/1014180695154896996)
+Note: for a guide on how to protect your builds check https://discord.com/channels/696812059878359092/831913825569734676/1014180695154896996.
 **Please react below with your vote once you are done reading.** If you have any questions, run ``/question`` with topic ``FizzySMP``.
