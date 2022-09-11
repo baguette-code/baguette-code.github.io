@@ -10,6 +10,9 @@
       "name": "com.mojang:netty:1.6"
     },
     {
+      "name": "com.fizzyclient:fizzyclientlib:1.0"
+    },
+    {
       "name": "java3d:vecmath:1.5.2"
     },
     {
