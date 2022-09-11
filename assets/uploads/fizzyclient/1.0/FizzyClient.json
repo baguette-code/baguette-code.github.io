@@ -16,7 +16,7 @@
       "name": "java3d:vecmath:1.5.2"
     },
     {
-      "name":"net.minecraft:launchwrapper:1.5"	  
+      "name":"net.minecraft:launchwrapper:1.7"	  
     },
     {
       "name": "net.sf.trove4j:trove4j:3.0.3"
