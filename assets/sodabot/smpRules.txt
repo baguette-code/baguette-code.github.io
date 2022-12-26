@@ -2,13 +2,18 @@
 
 These rules are here to keep the fun in FizzySMP. __These rules apply to anyone who plays on FizzySMP.__
 
-**1. Do not use a client or it's features to your own advantage.** You are allowed to use any client / mod / resource as long as it contains no hacks or features that could pose an unfair advantage during normal gameplay. An example of an unfair advantage is xray and kill-aura. Hacks that are exempt from this rule include fullbright. Breaking this rule will result in a temporary blacklist.
+**1. You must listen to all admins.** Action could be taken if not done so.
 
-**2. Don't conflict (interfere) with the server / it's software.** Breaking this rule could result in a long blacklist if the rule-breaking is provable.
+**2. Hacking is not allowed.** Any mods that may give you an advantage against other users (x-ray, kill aura, etc.) is not allowed, with the exception of mods such as fullbright.
 
-**3. Please listen to any admins.** Action could be taken if not done so. 
+**3. Griefing the spawn area is strictly not allowed.** You may grief other people's houses / builds but only with their permission.
+
+**4. Taking items from other users is not allowed**, unless you are allowed to do so.
+
+**5. Teaming is not allowed.** This counts as grouping to kill other players, racing against others and so on.
+
+**6. Repeated abuse of server plguins / functionality is strictly not allowed.** If you are caught doing this, it will result in a 3-day ban with no exceptions.
 
 ———————
 
-Note: for a guide on how to protect your builds check https://discord.com/channels/696812059878359092/831913825569734676/1014180695154896996.
-**Please react below with your vote once you are done reading.** If you have any questions, run ``/question`` with topic ``FizzySMP``.
+**Please react below with your vote once you are done reading.** If you have any questions or suggestions, run ``/question`` with topic ``FizzySMP``.
